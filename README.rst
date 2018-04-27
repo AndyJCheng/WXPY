@@ -1,4 +1,4 @@
-# WXPY
+wechat program
 ==============================
 
 .. image:: https://badge.fury.io/py/wxpy.svg
