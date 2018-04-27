@@ -1,4 +1,6 @@
 # WXPY
+==============================
+
 .. image:: https://badge.fury.io/py/wxpy.svg
     :target: https://badge.fury.io/py/wxpy
 
