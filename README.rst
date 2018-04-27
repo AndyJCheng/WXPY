@@ -11,3 +11,4 @@
 WeChat robot / probably the most elegant WeChat personal number API 
 
 Wxpy on the basis of itchat, through a large number of interface optimization to enhance the module's ease of use, and carry out a wealth of functional expansion
+
