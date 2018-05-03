@@ -18,6 +18,7 @@ def hello_world():
 
     male = sex_dict['male'] / 100
     female = sex_dict['female'] / 100
+
     return render_template('male_female.html', male=male, female=female)
 
 
